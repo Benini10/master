@@ -5,7 +5,7 @@ class Boucle{
       System.out.println("Say ok <="+i);
     }
 
-    while(x < 5){
+    while(x < 10){
       System.out.println("Say again <="+x);
       x++;
     }
